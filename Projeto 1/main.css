@@ -1,0 +1,38 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: monospace;
+    padding: 24px;
+}
+
+.title {
+font-size: 48px;
+color: #00ff7f;
+}
+
+.list-item {
+margin-bottom: 24px;
+font-size: 24px;
+}
+
+input {
+    height: 32px;
+    background-color: transparent;
+    color: #ffffff;
+    border-color: #00ff7f;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 8px;
+    font-family: monospace;
+}
+
+button {
+    font-size: 14px;
+    padding: 14px;
+    background-color: #00ff7f;
+    border-width: 4px;
+    border-radius: 2px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: monospace;
+}
